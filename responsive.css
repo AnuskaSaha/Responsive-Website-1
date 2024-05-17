@@ -25,6 +25,9 @@
     .logo img{
         width:100%;
     }
+    .firstsection{
+        height: 80vh;
+    }
     .box-main{
         flex-direction: column-reverse;
         justify-content: space-evenly;
